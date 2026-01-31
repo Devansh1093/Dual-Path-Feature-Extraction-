@@ -14,7 +14,7 @@ Early detection of lung cancer is critical for improving survival rates, yet acc
 - Three classes: Normal, Benign, Malignant
 
 ##  Results
-- **Validation Accuracy**: ** 94%**
+- **Validation Accuracy**:  94%
 - Improved performance compared to baseline CNN-based models
 - Evaluation metrics include accuracy, precision, recall, F1-score, and ROC–AUC
 
